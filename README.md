@@ -9,3 +9,8 @@ This file contain just a basic information about me.
 ```My block
 Block inside the markdown
 ```
+
+```
+Adding image below
+```
+![alt text](https://addingImageURL)
