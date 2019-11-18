@@ -12,5 +12,12 @@ Block inside the markdown
 
 ```
 Adding image below
+
+
+
+
+
+
+
 ```
 ![alt text](https://addingImageURL)
