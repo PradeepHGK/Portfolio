@@ -21,3 +21,5 @@ Adding image below
 
 ```
 ![alt text](https://addingImageURL)
+
+[Sample youtube link for creating MD](https://youtu.be/eJojC3lSkwg)
